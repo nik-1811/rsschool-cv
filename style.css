@@ -1,0 +1,148 @@
+body {
+    width: 1600px;
+    padding: 0;
+    margin: 0;
+    border: none;
+    font-family: 'Roboto',sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    text-transform:none;
+
+    
+}
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+.header{
+    width: 1600px;
+    min-height: 80px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+.menu{
+    display: flex;
+    
+}
+.menu li a {
+    
+    text-decoration: none;
+    font-size: 16px;
+}
+.menu li {
+    margin-right: 58px;
+}
+.section2 {
+    padding: 20px 0 180px;
+    background-position: 1600px;
+    
+    
+ }
+ .section2-row {
+    display: grid;
+    margin-right: 220px;
+
+     }  
+
+ .section2__block{
+    grid-column: 2;
+    margin-left: 86px;
+    padding: 100px 0 180px;
+ }
+
+ .section2__text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height:20.8px;
+    color: #333B41;
+    text-transform:none;
+    margin-bottom: 54px;
+    text-transform:none;
+ }
+ .block__tile {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height:28.8px;
+    color: #333B41;
+    text-transform:none;
+ }
+ .section2__text2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height:20.8px;
+    color: #333B41;
+    text-transform:none;
+    margin-bottom: 54px;
+    text-transform:none;
+ }
+ .block__tile2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height:28.8px;
+    color: #333B41;
+    text-transform:none;
+ }
+ .section2__text3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height:20.8px;
+    color: #333B41;
+    text-transform:none;
+    margin-bottom: 54px;
+    text-transform:none;
+ }
+ .block__tile3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height:28.8px;
+    color: #333B41;
+    text-transform:none;
+ }
+ .section2__text4 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height:20.8px;
+    color: #333B41;
+    text-transform:none;
+    margin-bottom: 54px;
+    text-transform:none;
+ }
+ .block__tile4 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height:28.8px;
+    color: #333B41;
+    text-transform:none;
+ }
+ .section2__text5 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height:20.8px;
+    color: #333B41;
+    text-transform:none;
+    margin-bottom: 54px;
+    text-transform:none;
+ }
+ .block__tile5 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height:28.8px;
+    color: #333B41;
+    text-transform:none;
+ }
+ 
